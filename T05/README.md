@@ -29,6 +29,8 @@ Example of condition some
  - `a nor b`	true if a and b are false
  - `a xor b`	true if exactly one of a or b are true
  - `a xnor b`	true if a and b are equal
+
+In this program define a variable which name is `i`. Type of `i` is `integer` and assign with 0.  In the loop i added 2 and loop continue. Loop end when `i` is 10. 
  
  Output of program is
  
